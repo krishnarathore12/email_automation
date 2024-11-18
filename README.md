@@ -50,5 +50,5 @@ The project leverages the OpenAI API and Streamlit to automate emails. Here's a 
 * It leverages the OpenAI API to potentially craft email content or personalize it based on your requirements. 
 * Streamlit creates a user interface to potentially preview and send the emails.
 
-**Note:** This is a general guideline, and the specific implementation might vary depending on your project's design.  For instance, you may choose to use the OpenAI API for a different purpose or not use it at all.
+
  
